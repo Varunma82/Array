@@ -1,8 +1,8 @@
-Find Second Smallest and Second Largest Element in an array
+//Find Second Smallest and Second Largest Element in an array
 
-Problem Statement:  Given an array, find the second smallest and second largest element in the array. Print ‘-1’ in the event that either of them doesn’t exist.
+//Problem Statement:  Given an array, find the second smallest and second largest element in the array. Print ‘-1’ in the event that either of them doesn’t exist.
 
-Solution:  
+//Solution:  
 public class Solution {
     static int getSecondLargest(int n,int []a){
         int largest=a[0];
